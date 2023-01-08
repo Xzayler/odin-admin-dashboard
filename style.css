@@ -249,7 +249,6 @@ html {
 .news {
   position: sticky;
   position: -webkit-sticky;
-  border: 1px solid red;
   top: 0;
 }
 
